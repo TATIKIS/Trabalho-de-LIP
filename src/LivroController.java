@@ -5,7 +5,6 @@ public class LivroController {
         livro.add(livros);
         System.out.println("Livro salvo com sucesso!");
     }
-
     public void excluirLivro(int id){
         for (int i = 0; i < livro.size(); i++){
             if (livro.get(i).getId() == id ){
