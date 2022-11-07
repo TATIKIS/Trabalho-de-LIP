@@ -78,7 +78,7 @@ public class Menu  {
                     int quantidade = scan.nextInt();
                     Livro lvr = new Livro(nome, preco, tipo, quantidade);
                     lv.salvarLivro(lvr);
-                } catch (Exception preco){
+                } catch (Exception preco) {
                     System.out.println("Caractere inválido, digite apenas números");
                 }
             } else if (opcao.equals("2")) {
