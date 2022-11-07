@@ -11,7 +11,7 @@ Não precisa utilizar banco de dados. Também não precisa criar uma interface g
 uma navegabilidade no sistema mesmo que via teclado. 
 
 # Funcional-em-python
-1.Faça um programa que receba duas listas A e B e imprima a diferença simétrica de A e
+1. Faça um programa que receba duas listas A e B e imprima a diferença simétrica de A e
 B. A diferença simétrica de A e B é dada por (A-B) U (B-A).
 
 2. Faça um programa que receba uma lista de inteiros L e dois números p e q inteiros e
