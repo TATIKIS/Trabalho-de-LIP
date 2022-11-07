@@ -19,15 +19,12 @@ public class Menu  {
             if (opcao.equals("1")) {
                 login();
                 break;
-            }
-            else if (opcao.equals("2")) {
+            } else if (opcao.equals("2")) {
                 submenuCliente();
                 break;
-            }
-            else if (opcao.equals("0")) {
+            } else if (opcao.equals("0")) {
                 break;
-            }
-            else {
+            } else {
                 System.out.println("Opcao inválida");
             }
         }
@@ -47,8 +44,7 @@ public class Menu  {
             if (nomelogin.equals("admim") & senhalogin.equals("admim")) {
                 submenuVendedor();
                 break;
-            }
-            else {
+            } else {
                 System.out.println("Acesso negado!");
             }
         }

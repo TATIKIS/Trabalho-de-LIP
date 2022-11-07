@@ -12,7 +12,11 @@ public class HitoricoDeVendasController {
         System.out.println("Livros comprados com sucesso!");
     }
     public void livrosVendidos(){
-        System.out.println(livrosVendidos);
+        if (livrosVendidos.isEmpty()){
+            System.out.println("Vazio!");
+        } else {
+            System.out.println(livrosVendidos);
+        }
     }
 
     @Override
