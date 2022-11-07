@@ -57,7 +57,7 @@ public class Menu  {
         Scanner scan = new Scanner(System.in);
         while (true) {
             System.out.println("+====================================================================+");
-            System.out.println("                !!!Navegação em modo vendedor!!!                       ");
+            System.out.println("                !!!Navegação em modo vendedor!!!                      ");
             System.out.println("+====================================================================+");
             System.out.println("(1) Adicionar livros");
             System.out.println("(2) Listar meus livros");
