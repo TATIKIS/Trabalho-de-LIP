@@ -32,7 +32,7 @@ contendo respectivamente as coordenadas x e y do ponto no seu canto inferior esq
 seguidas das suas medidas de largura e altura. Considere, ainda, que o eixo y cresce de
 baixo para cima e o eixo x cresce da esquerda para direita.
 
-#Lógico-em-Prolog
+#Logico-em-Prolog
 1. Utilizando Prolog implemente um predicado primos(L) que determina se todos os
 números na lista L são primos.
 
