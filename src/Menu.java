@@ -33,7 +33,7 @@ public class Menu  {
         Scanner scan = new Scanner(System.in);
         Login login = new Login("admim", "admim");
 
-        while (true){
+        while (true) {
             System.out.println("+====================================================================+");
             System.out.println("                          !!!Login!!!                                 ");
             System.out.println("+====================================================================+");
