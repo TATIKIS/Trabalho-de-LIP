@@ -32,3 +32,20 @@ contendo respectivamente as coordenadas x e y do ponto no seu canto inferior esq
 seguidas das suas medidas de largura e altura. Considere, ainda, que o eixo y cresce de
 baixo para cima e o eixo x cresce da esquerda para direita.
 
+#Lógico-em-Prolog
+1. Utilizando Prolog implemente um predicado primos(L) que determina se todos os
+números na lista L são primos.
+
+2. Utilizando Prolog implemente um predicado n_esimo(N, L, X), onde X é o N-ésimo
+elemento da lista L.
+
+3. Utilizando Prolog implemente o predicado tamanho(L, X), onde X é comprimento da
+lista L.
+
+4. Implemente o predicado elimina_repetidos( L1 , L2 ) que recebe em L2 o resultado de L1
+sem elementos duplicados. Por exemplo, se L1 = [ 1 , 1 , 1 , 5 , 5 ], então L2 = [ 1 , 5 ].
+
+5. Implemente um programa em Prolog sobre a seguinte família:
+Construa um banco de fatos de uma família. De modo que seja possível representar os
+seguintes predicados: sexo(masculino ou feminino), irmã, irmão, descendente, mãe, pai,
+avô, avó, tio, tia, primo e prima.
