@@ -1,4 +1,4 @@
-# Trabalho-de-OO-java
+# OO-em-java
 Sr. Code tem uma pequena livraria e gostaria de criar um pequeno sistema que torne
 automático o processo de vendas e compras dos livros. Na livraria do Code tem três
 tipos de livros, a saber: aventura, drama e comédia. Todos os livros possuem nome,
