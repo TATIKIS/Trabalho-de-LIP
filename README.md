@@ -13,18 +13,14 @@ uma navegabilidade no sistema mesmo que via teclado.
 # Funcional-em-python
 1.Faça um programa que receba duas listas A e B e imprima a diferença simétrica de A e
 B. A diferença simétrica de A e B é dada por (A-B) U (B-A).
-
 2. Faça um programa que receba uma lista de inteiros L e dois números p e q inteiros e
 imprima a lista L sendo que toda ocorrência de p deve ser trocada por p+q.
-
 3. Faça um programa que recebe um inteiro positivo n e uma string W e determina se W
 contém uma substring de tamanho maior ou igual a n que é palíndroma. A saída deve
 ser apenas as palavras sim ou nao.
-
 4. Faça um programa que receba uma lista de inteiros e imprima somente os números que
 são primos. Um número inteiro maior que um é primo se contém exatamente dois
 divisores inteiros positivos.
-
 5. Faça um programa que receba como entrada coordenadas de um retângulo no plano e
 um ponto p no plano, e imprima ‘sim’ se o ponto p está dentro do retângulo e ‘nao’ caso
 contrário. Suponha que o retângulo seja representado por uma tupla (int, int, int, int),
